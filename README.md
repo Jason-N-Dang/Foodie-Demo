@@ -30,11 +30,4 @@ Objectives/Requirements:
 -The system shall utilize a database which will securely manage user and restaurant data that will be presented on the mobile app.
 
 
-Roadmap
 
--Platform: Mobile application (cross platform - Android and iOS).
-
--Approximate Size: Medium, 30,000 - 50,000 lines of code.
-
--Tools & Software:
-For the development of a cross-platform mobile application, we will be creating the frontend of our system in JavaScript using the mobile framework React Native. In order to store and organize user and restaurant data, we will be using a MySQL database. To access this data, analyze the relationships between them (e.g. create recommendations), and output these to the mobile frontend, we will be creating the server backend of our system in either Node.js with Express. Possible APIs that we will be using include: Recombee (recommender system) API, Google Maps API, and Yelp API.
