@@ -1,6 +1,11 @@
 # Foodie
 COMP490/L 
 
+SHORT FUNCTIONAL DEMO: 
+https://youtu.be/kJ3JBE5rDDI 
+
+
+
 "The Hotspots" 
 
 Sivan Farnoush, Roni Tandoc, Alexis Siguenza, Aaron Tiania, Alberto Luna, Jason Dang, Vattanak Keo, Victor Pineda
